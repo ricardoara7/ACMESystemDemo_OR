@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UDbJnM3oEEe3oNm4Vndqew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CVScreenId="2574103b-31bb-40e2-9de6-48f2ba46deda" CvTextArea="1805, 670, 220, 32" CvType="AnyWordGroup" DesignTimeRectangle="1402, 663, 1030, 50" DesignTimeScaleFactor="2.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='candidateName' tag='DIV' type='' class='' /&gt;" Guid="b43797a6-53a2-4a2a-b678-7fdea7fa2433" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="95e4f1021e34fc9f66585698654b9cd7.png" xmlns="">0cmK3ReEEGEKxJGY6eKclRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
